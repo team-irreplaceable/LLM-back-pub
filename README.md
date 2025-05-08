@@ -37,7 +37,7 @@ uvicorn app.main:app --reload
 GET /collect-and-store?keyword=IT&total=100
 
 # 키워드 기반 뉴스 검색 및 요약
-GET /search?query=AI 반도체
+GET /chat?query=AI 반도체&journal=연합뉴스
 
 GET /keyword-summary?keyword=전지훈련
 ```
