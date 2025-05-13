@@ -41,3 +41,7 @@ GET /chat?query=AI 반도체&journal=연합뉴스
 
 GET /keyword-summary?keyword=전지훈련
 ```
+
+### 3. 결과 (데이터 형태)
+<img width="632" alt="백엔드결과1" src="https://github.com/user-attachments/assets/a67e012b-8f5d-4a5a-94fa-17439238bbba" />
+<img width="524" alt="백엔드결과2" src="https://github.com/user-attachments/assets/9bbaad4e-7b8a-4448-bc18-78a19d98af1e" />
